@@ -1,4 +1,4 @@
-.. _Reproduced Results
+.. _Reproduced Results:
 
 Reproduced Results
 =======================

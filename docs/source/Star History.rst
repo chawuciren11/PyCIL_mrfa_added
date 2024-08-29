@@ -1,4 +1,4 @@
-.. _Star History:
+.. _Star History🚀:
 
 Star History
 ================
