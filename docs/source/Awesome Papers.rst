@@ -37,11 +37,8 @@ Our Papers
 Other Awesome Works
 ----------------------
 
-- Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint (**ICCV 2023**) `[paper] <https://openaccess.thecvf.com/content/ICCV2023/papers/Chavan_Towards_Realistic_Evaluation_of_Industrial_Continual_Learning_Scenarios_with_an_ICCV_2023_paper.pdf>`_
-`[code] <https://github.com/Vivek9Chavan/RECIL>`_
+- Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint (**ICCV 2023**) `[paper] <https://openaccess.thecvf.com/content/ICCV2023/papers/Chavan_Towards_Realistic_Evaluation_of_Industrial_Continual_Learning_Scenarios_with_an_ICCV_2023_paper.pdf>`_`[code] <https://github.com/Vivek9Chavan/RECIL>`_
 
-- Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**) `[paper] <https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Dynamic_Residual_Classifier_for_Class_Incremental_Learning_ICCV_2023_paper.pdf>`_
-`[code] <https://github.com/chen-xw/DRC-CIL>`_
+- Dynamic Residual Classifier for Class Incremental Learning (**ICCV 2023**) `[paper] <https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Dynamic_Residual_Classifier_for_Class_Incremental_Learning_ICCV_2023_paper.pdf>`_`[code] <https://github.com/chen-xw/DRC-CIL>`_
 
-- S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning (**NeurIPS 2022**) `[paper] <https://openreview.net/forum?id=ZVe_WeMold>`_
-`[code] <https://github.com/iamwangyabin/S-Prompts>`_
+- S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning (**NeurIPS 2022**) `[paper] <https://openreview.net/forum?id=ZVe_WeMold>`_`[code] <https://github.com/iamwangyabin/S-Prompts>`_

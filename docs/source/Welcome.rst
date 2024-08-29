@@ -1,5 +1,5 @@
 .. _Welcome:
-welcome
+Welcome
 =========
 
 Welcome to PyCIL, perhaps the toolbox for class-incremental learning with the most implemented methods.

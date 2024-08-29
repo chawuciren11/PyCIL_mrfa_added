@@ -22,4 +22,3 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 * :ref:`Acknowledgements`
 * :ref:`Contact`
 * :ref:`Star History`
-🚀
