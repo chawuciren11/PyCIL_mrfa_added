@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PyCIL'
+copyright = ('xxx','xxx')
+author = 'CLLab-NJU'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.2'
 
 # -- General configuration
 
@@ -17,6 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_markdown_tables',
+    'recommonmark'
 ]
 
 intersphinx_mapping = {
