@@ -34,7 +34,7 @@ Running Experiments
 
 where ``[MODEL NAME]`` should be chosen from ``finetune``, ``ewc``, ``lwf``, ``replay``, ``gem``,  ``icarl``, ``bic``, ``wa``, ``podnet``, ``der``, etc.
 
-4. ``Hyperparameters``
+4. Hyperparameters
 
 
 When using PyCIL, you can edit the global parameters and algorithm-specific hyper-parameter in the corresponding json file.
