@@ -25,8 +25,8 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 welcome
 =========
 
-...* `Welcome <welcome.rst>`_
-* News
+* `welcome <welcome.rst>`_
+* `News <index.rst>`_
 * Instructions
 * MethodsReproduced
 * Reproduced Results
