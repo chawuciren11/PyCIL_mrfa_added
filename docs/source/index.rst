@@ -22,6 +22,9 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    * Contact
    * Star History
 
+welcome
+=========
+
 * `Welcome <welcome.rst>`_
 * News
 * Instructions
