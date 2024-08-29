@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'PyCIL'
-copyright = ('xxx','xxx')
+copyright = 'xx,xxx'
 author = 'CLLab-NJU'
 
 release = '1.0'
