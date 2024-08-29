@@ -14,10 +14,10 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    News
 
 
-* :doc:`welcome <welcome>`
+* :ref:`welcome`
 * :doc:`News <News>`
 * `Instructions <https://arxiv.org/abs/2204.04662>`_
-* MethodsReproduced
+* `MethodsReproduced <<https://arxiv.org/abs/2204.04662>`_
 * Reproduced Results
 * How To Use
 * Awesome Papers
