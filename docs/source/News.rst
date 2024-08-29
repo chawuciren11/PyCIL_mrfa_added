@@ -12,6 +12,6 @@ News
 * [2022-12]🌟 Add FrTrIL, PASS, IL2A, and SSRE.
 * [2022-10]🌟 PyCIL has been published in `SCIENCE CHINA Information Sciences <https://link.springer.com/article/10.1007/s11432-022-3600-y>`_. Check out the `official introduction <https://mp.weixin.qq.com/s/h1qu2LpdvjeHAPLOnG478A>`_!
 * [2022-08]🌟 Add RMM.
-* [2022-07]🌟 Add `FOSTER<https://arxiv.org/abs/2204.04662>`_. State-of-the-art method with a single backbone!
+* [2022-07]🌟 Add `FOSTER <https://arxiv.org/abs/2204.04662>`_. State-of-the-art method with a single backbone!
 * [2021-12]🌟 Call For Feedback: We add a section to introduce awesome works using PyCIL. If you are using PyCIL to publish your work in top-tier conferences/journals, feel free to contact us for details!
 * [2021-12]🌟 As team members are committed to other projects and in light of the intense demands of code reviews, we will prioritize reviewing algorithms that have explicitly cited and implemented methods from our toolbox paper in their publications. Please read the PR policy before submitting your code.

@@ -2,9 +2,12 @@
 welcome
 =========
 
-Welcome to PyCIL, perhaps the toolbox for class-incremental learning with the most implemented methods. This is the code repository for "PyCIL: A Python Toolbox for Class-Incremental Learning" [paper] in PyTorch. If you use any content of this repo for your work, please cite the following bib entries
+Welcome to PyCIL, perhaps the toolbox for class-incremental learning with the most implemented methods.
+This is the code repository for
+"PyCIL: A Python Toolbox for Class-Incremental Learning" `[paper] <https://arxiv.org/abs/2112.12533>`_ in PyTorch.
+If you use any content of this repo for your work,
+please cite the following bib entries::
 
-::
     @article{zhou2023pycil,
         author = {Da-Wei Zhou and Fu-Yun Wang and Han-Jia Ye and De-Chuan Zhan},
         title = {PyCIL: a Python toolbox for class-incremental learning},
