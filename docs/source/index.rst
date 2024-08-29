@@ -10,9 +10,6 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    :maxdepth: 2
    :caption: Contents:
 
-   welcome
-   News
-
 
 * :ref:`Welcome`
 * :ref:`News`
@@ -24,4 +21,5 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 * :ref:`Lisense`
 * :ref:`Acknowledgements`
 * :ref:`Contact`
-* :ref:`Star History🚀`
+* :ref:`Star History`
+🚀
