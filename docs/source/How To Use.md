@@ -1,4 +1,3 @@
-.. _How To Use:
 
 ### Clone
 
