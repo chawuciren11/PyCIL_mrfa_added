@@ -10,7 +10,6 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    :maxdepth: 2
    :caption: Contents:
 
-
 * :ref:`Welcome`
 * :ref:`News`
 * :ref:`Instructions`

@@ -6,7 +6,8 @@ Reproduced Results
 CIFAR-100
 ------------
 
-.. figure:: ./resources/cifar100.png
+.. figure::
+   :target: https://github.com/G-U-N/PyCIL/blob/master/resources/ImageNet100.png
    :width: 900px
    :align: center
 
@@ -14,14 +15,16 @@ CIFAR-100
 ImageNet-100
 --------------
 
-.. figure:: ./resources/ImageNet100.png
+.. figure::
+   :target: https://github.com/G-U-N/PyCIL/blob/master/resources/cifar100.png
    :width: 900px
    :align: center
 
 ImageNet-100 (Top-5 Accuracy)
 -----------------------------------
 
-.. figure:: ./resources/imagenet20st5.png
+.. figure::
+   :target: https://github.com/G-U-N/PyCIL/blob/master/resources/imagenet20st5.png
    :width: 500px
    :align: center
 
