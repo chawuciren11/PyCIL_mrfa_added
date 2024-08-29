@@ -3,4 +3,4 @@
 Lisense
 =========
 
-Please check the MIT  :ref:`[license]` that is listed in this repository.
+Please check the MIT  `[license] <LICENSE>`_ that is listed in this repository.
