@@ -17,6 +17,8 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 * :ref:`Reproduced Results`
 * :ref:`How To Use`
 * :ref:`Awesome Papers`
+* :ref:`Explanation Of Main Code`
+* :ref:`Explanation Of Some Methods`
 * :ref:`Lisense`
 * :ref:`Acknowledgements`
 * :ref:`Contact`
