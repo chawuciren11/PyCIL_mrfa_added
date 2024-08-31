@@ -92,6 +92,7 @@ COIL
        :width: 900px
        :align: center
   In the image,optimal Transport (OT) refers to a mathematical framework that is used to measure and minimize the cost of transferring mass between two probability distributions.In this paper, OT is creatively applied to model the semantic relationships between classes in an incremental learning scenario.
+
 * The article introduces a model named CO-transport for Class-Incremental Learning (COIL).  The model's core lies in facilitating the correlation between different learning stages through class-wise semantic relationships. Specifically, COIL consists of two main components:
     - Prospective Transport: This part aims to rapidly adapt the old classifier to new classes by augmenting it with optimally transported knowledge. It accelerates the model's adaptation to new tasks by transferring knowledge from classifiers of old classes to new ones.
     - Retrospective Transport: To overcome the forgetting issue, this part retroactively transports new class classifiers back as old ones, helping to preserve old knowledge.
