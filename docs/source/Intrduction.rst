@@ -1,6 +1,6 @@
-.. _Instructions:
+.. _Introduction:
 
-Instructions
+Introduction
 ==============
 
 Traditional machine learning systems are deployed under the closed-world setting,
