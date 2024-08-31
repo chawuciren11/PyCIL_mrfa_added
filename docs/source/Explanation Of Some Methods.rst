@@ -8,6 +8,7 @@ MRFA
 
 * Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning (**ICML 2024**) `[paper] <https://openreview.net/forum?id=aksdU1KOpT>`_   `[code] <https://github.com/bwnzheng/MRFA_ICML2024>`_
 * Accuracy drop after different scales of perturbation
+
     .. figure:: ./resources/MRFA.png
        :width: 900px
        :align: center
@@ -19,6 +20,7 @@ EASE
 
 * Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning (**CVPR 2024**) `[paper] <https://arxiv.org/abs/2403.12030>`_  `[code] <https://github.com/sun-hailong/CVPR24-Ease>`_
 * Illustration of EASE
+
     .. figure:: ./resources/EASE.png
        :width: 900px
        :align: center
@@ -29,6 +31,7 @@ MEMO
 
 * A model or 603 exemplars: Towards memory-efficient class-incremental learning (**ICLR 2023**) `[paper] <https://arxiv.org/abs/2205.13218>`_   `[code] <https://github.com/wangkiw/ICLR23-MEMO/>`_
 * Illustration of MEMO
+
     .. figure:: ./resources/MEMO.png
        :width: 900px
        :align: center
@@ -39,6 +42,7 @@ PROOF
 
 * Learning without Forgetting for Vision-Language Models (**arXiv 2023**) `[paper] <https://arxiv.org/abs/2305.19270>`_
 * Illustration of PROOF
+
     .. figure:: ./resources/PROOF.png
        :width: 900px
        :align: center
@@ -49,6 +53,7 @@ ADAM
 ----------------
 * Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need (**arXiv 2023**) `[paper] <https://arxiv.org/abs/2303.07338>`_   `[code] <https://github.com/zhoudw-zdw/RevisitingCIL>`_
 * Illustration of ADAM
+
     .. figure:: ./resources/ADAM.png
        :width: 900px
        :align: center
@@ -59,6 +64,7 @@ FOSTER
 -----------
 * Foster: Feature Boosting and Compression for Class-incremental Learning (**ECCV 2022**) `[paper] <https://arxiv.org/abs/2204.04662>`_   `[code] <https://github.com/G-U-N/ECCV22-FOSTER/>`_
 * Feature Boosting
+
     .. figure:: ./resources/FOSTER.png
        :width: 900px
        :align: center
@@ -70,6 +76,7 @@ BEEF
 
 * BEEF: Bi-Compatible Class-Incremental Learning via Energy-Based Expansion and Fusion (**ICLR 2023**) `[paper] <https://openreview.net/forum?id=iP77_axu0h3>`_   `[code] <https://github.com/G-U-N/ICLR23-BEEF/>`_
 * Illustration of BEEF
+
     .. figure:: ./resources/BEEF.png
        :width: 900px
        :align: center
@@ -80,11 +87,12 @@ COIL
 -------
 * Co-Transport for Class-Incremental Learning (**ACM MM 2021**) `[paper] <https://arxiv.org/abs/2107.12654>`_   `[code] <https://github.com/zhoudw-zdw/MM21-Coil>`_
 * Illustration of COIL
+
     .. figure:: ./resources/COIL.png
        :width: 900px
        :align: center
   In the image,optimal Transport (OT) refers to a mathematical framework that is used to measure and minimize the cost of transferring mass between two probability distributions.In this paper, OT is creatively applied to model the semantic relationships between classes in an incremental learning scenario.
 * The article introduces a model named CO-transport for Class-Incremental Learning (COIL).  The model's core lies in facilitating the correlation between different learning stages through class-wise semantic relationships. Specifically, COIL consists of two main components:
     - Prospective Transport: This part aims to rapidly adapt the old classifier to new classes by augmenting it with optimally transported knowledge. It accelerates the model's adaptation to new tasks by transferring knowledge from classifiers of old classes to new ones.
-    -Retrospective Transport: To overcome the forgetting issue, this part retroactively transports new class classifiers back as old ones, helping to preserve old knowledge.
+    - Retrospective Transport: To overcome the forgetting issue, this part retroactively transports new class classifiers back as old ones, helping to preserve old knowledge.
   Through these two transport mechanisms, COIL efficiently adapts to new tasks while stably resisting forgetting. Experiments demonstrate COIL's effectiveness on various benchmark and real-world multimedia datasets.
