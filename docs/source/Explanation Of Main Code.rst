@@ -28,9 +28,7 @@ which can be easily used by all other methods.
 
 * **\_evaluate(self, y\_pred, y\_true)** Calculates the accuracy of the model based on given predictions and true labels.It computes grouped accuracy, top-1 accuracy, and top-k accuracy.It will be used in the next function(**eval\_task(self, save\_conf=False)**)
 
-* **eval\_task(self, save\_conf=False)** Evaluates the performance of the current task.It calls **\_eval\_cnn**(use **\_eval\_cnn(self, loader)** function) and
-
-**\_eval\_nme**(use **\_eval\_nme(self, loader, class\_means)** function) methodsto evaluate the CNN model and the Nearest Mean Encoding (NME) model's performance.If **save\_conf** is True, it also saves the predictions and true labels and generates a confusion matrix.
+* **eval\_task(self, save\_conf=False)** Evaluates the performance of the current task.It calls **\_eval\_cnn**(use **\_eval\_cnn(self, loader)** function) and**\_eval\_nme**(use **\_eval\_nme(self, loader, class\_means)** function) methodsto evaluate the CNN model and the Nearest Mean Encoding (NME) model's performance.If **save\_conf** is True, it also saves the predictions and true labels and generates a confusion matrix.
 
 * **incremental\_train(self)** A method intended for training the model on new tasks, which is currently empty.
 
