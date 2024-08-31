@@ -36,7 +36,7 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 :ref:`News`
 ----------------
 
-:ref:`Instruction`
+:ref:`Introduction`
 --------------------------
 
 :ref:`Methods Reproduced`
