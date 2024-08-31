@@ -10,16 +10,49 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    :maxdepth: 2
    :caption: Contents:
 
-* :ref:`Welcome`
-* :ref:`News`
-* :ref:`Instructions`
-* :ref:`Methods Reproduced`
-* :ref:`Reproduced Results`
-* :ref:`How To Use`
-* :ref:`Awesome Papers`
-* :ref:`Explanation Of Main Code`
-* :ref:`Explanation Of Some Methods`
-* :ref:`Lisense`
-* :ref:`Acknowledgements`
-* :ref:`Contact`
-* :ref:`Star History`
+
+.. figure:: ./resources/logo.png
+   :width: 900px
+   :align: center
+
+
+
+:ref:`Welcome`
+""""""""""""""""
+
+:ref:`News`
+""""""""""""""""
+
+:ref:`Instructions`
+""""""""""""""""""""""""""
+
+:ref:`Methods Reproduced`
+""""""""""""""""""""""""""
+
+:ref:`Reproduced Results`
+""""""""""""""""""""""""""
+
+:ref:`How To Use`
+""""""""""""""""""""""""""
+
+:ref:`Awesome Papers`
+""""""""""""""""""""""""""
+
+:ref:`Explanation Of Main Code`
+"""""""""""""""""""""""""""""""""
+
+:ref:`Explanation Of Some Methods`
+""""""""""""""""""""""""""""""""""""
+
+:ref:`Lisense`
+"""""""""""""""""""""""""""""""""
+
+:ref:`Acknowledgements`
+"""""""""""""""""""""""""""""""""
+
+:ref:`Contact`
+"""""""""""""""""""""""""""""""""
+
+:ref:`Star History`
+"""""""""""""""""""""""""""""""""
+
