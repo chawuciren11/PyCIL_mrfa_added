@@ -1,6 +1,6 @@
-.. _Explanation Of Main Code:
+.. _Explanation Of Main Codes:
 
-Explanation Of Main Code
+Explanation Of Main Codes
 ==========================
 
 base.py

@@ -16,12 +16,13 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    Methods Reproduced
    Reproduced Results
    How To Use
-   Awesome Papers
-   Explanation Of Main Code
+   Awesome Papers Using PyCIL
+   Explanation Of Main Codes
    Explanation Of Some Methods
-   License
-   Acknowledgments
+   Lisense
+   Acknowledgements
    Contact
+   Star History
 
 
 .. figure:: ./resources/logo.png
@@ -48,10 +49,10 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 :ref:`How To Use`
 --------------------------
 
-:ref:`Awesome Papers`
+:ref:`Awesome Papers Using PyCIL`
 --------------------------
 
-:ref:`Explanation Of Main Code`
+:ref:`Explanation Of Main Codes`
 ---------------------------------
 
 :ref:`Explanation Of Some Methods`

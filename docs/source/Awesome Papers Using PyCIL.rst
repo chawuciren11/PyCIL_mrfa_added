@@ -1,4 +1,4 @@
-.. _Awesome Papers:
+.. _Awesome Papers Using PyCIL:
 
 Awesome Papers using PyCIL
 ====================
