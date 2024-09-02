@@ -32,6 +32,14 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-
+html_sidebars = {
+    '**': [
+        'about.html',
+        'navigation.html',
+        'relations.html',  # 用于“上一页”和“下一页”链接
+        'searchbox.html',  # 包含搜索框
+        'donate.html',  # 可以是自定义的侧边栏模板
+    ]
+}
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
