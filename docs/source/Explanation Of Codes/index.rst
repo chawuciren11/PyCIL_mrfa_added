@@ -3,7 +3,6 @@ Explanation Of Codes
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Get Started
 
     base
