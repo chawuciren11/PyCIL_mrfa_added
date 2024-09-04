@@ -20,16 +20,36 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    Awesome Papers Using PyCIL
    Explanation Of Main Codes
    Explanation Of Some Methods
-   Lisense
+   License
    Acknowledgements
    Contact
    Star History
 
 
 .. figure:: ./resources/logo.png
-   :scale: 30%
+   :scale: 50%
    :align: center
 
+----
+
+|LISENSE| |Python| |Pytorch| |Methods| |CIL| |visitors|
+
+.. |LISENSE| image:: https://img.shields.io/badge/license-MIT-green?style=flat-square
+   :target: https://github.com/yaoyao-liu/class-incremental-learning/blob/master/LICENSE
+
+.. |Python| image:: https://img.shields.io/badge/python-3.8-blue.svg?style=flat-square&logo=python&color=3776AB&logoColor=3776AB
+   :target: https://www.python.org/
+
+.. |Pytorch| image:: https://img.shields.io/badge/pytorch-1.8-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C
+   :target: https://pytorch.org/
+
+.. |Methods| image:: https://img.shields.io/badge/Reproduced-20-success
+   :target: https://github.com/G-U-N/PyCIL/tree/master
+
+.. |CIL| image:: https://img.shields.io/badge/ClassIncrementalLearning-SOTA-success??style=for-the-badge&logo=appveyor
+   :target: https://paperswithcode.com/task/incremental-learning
+
+.. |visitors| image:: https://visitor-badge.laobi.icu/badge?page_id=LAMDA.PyCIL&left_color=green&right_color=red
 
 ----
 

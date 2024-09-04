@@ -1,6 +1,6 @@
-.. _Lisense:
+.. _License:
 
-Lisense
+License
 =========
 
 MIT License
