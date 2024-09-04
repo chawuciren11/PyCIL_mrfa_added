@@ -22,7 +22,7 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    :hidden:
    :caption: Instructions
 
-   Explanation Of Codes
+   Explanation Of Codes/index
    Explanation Of Methods/index
 
 .. toctree::
