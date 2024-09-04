@@ -7,10 +7,9 @@ Explanation Of Codes
    :maxdepth: 2
    :caption: Get Started
 
-    base/base
     main
     trainer
 
 -----
 
-****
+**
