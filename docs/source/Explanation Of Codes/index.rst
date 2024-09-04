@@ -1,7 +1,6 @@
 Explanation Of Codes
 =====================
 
-
 ----
 
 .. toctree::
@@ -14,5 +13,4 @@ Explanation Of Codes
 
 -----
 
-base
------
+****
