@@ -58,7 +58,7 @@ How To Use
 
 Clone this GitHub repository:
 
-.. code-block::python
+.. code-block:: python
 
    git clone https://github.com/G-U-N/PyCIL.git
    cd PyCIL
@@ -81,7 +81,7 @@ Running Experiments
 2. Edit the hyperparameters in the corresponding ``[MODEL NAME].py`` file (e.g., ``models/icarl.py``).
 3. Run:
 
-.. code-block::python
+.. code-block:: python
 
    python main.py --config=./exps/[MODEL NAME].json
 
@@ -106,7 +106,7 @@ Datasets
 
 We have implemented the pre-processing of ``CIFAR100``, ``imagenet100``, and ``imagenet1000``. When training on ``CIFAR100``, this framework will automatically download it. When training on ``imagenet100/1000``, you should specify the folder of your dataset in ``utils/data.py``.
 
-.. code-block::python
+.. code-block:: python
 
    def download_data(self):
        assert 0, "You should specify the folder of your dataset"
