@@ -9,17 +9,27 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Contents:
+   :caption: Get Started
 
-   Welcome
    News
    Introduction
    Methods Reproduced
    Reproduced Results
-   How To Use
    Awesome Papers Using PyCIL
-   Explanation Of Main Codes
-   Explanation Of Some Methods
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Instructions
+
+   Explanation Of Codes/index
+   Explanation Of Methods/index
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Additional Information
+
    License
    Acknowledgements
    Contact
