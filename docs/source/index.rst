@@ -6,7 +6,7 @@
 PyCIL: A Python Toolbox for Class-Incremental Learning
 =================================
 
-.. contents::
+.. toctree::
    :maxdepth: 2
    :caption: Contents:
 
@@ -31,42 +31,4 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 
 
 
-:ref:`Welcome`
-----------------
-
-:ref:`News`
-----------------
-
-:ref:`Introduction`
---------------------------
-
-:ref:`Methods Reproduced`
---------------------------
-
-:ref:`Reproduced Results`
---------------------------
-
-:ref:`How To Use`
---------------------------
-
-:ref:`Awesome Papers Using PyCIL`
---------------------------
-
-:ref:`Explanation Of Main Codes`
----------------------------------
-
-:ref:`Explanation Of Some Methods`
-------------------------------------
-
-:ref:`Lisense`
----------------------------------
-
-:ref:`Acknowledgements`
----------------------------------
-
-:ref:`Contact`
----------------------------------
-
-:ref:`Star History`
----------------------------------
 
