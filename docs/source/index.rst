@@ -8,6 +8,7 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Contents:
 
    Welcome
