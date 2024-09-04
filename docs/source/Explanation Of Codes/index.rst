@@ -3,8 +3,7 @@ Explanation Of Codes
 
 .. toctree::
    :maxdepth: 2
-   :caption:
+   :caption: Get Started
 
-    base
-    main
-    trainer
+    base/base
+    
