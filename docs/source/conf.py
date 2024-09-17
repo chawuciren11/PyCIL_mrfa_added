@@ -19,6 +19,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx_markdown_tables',
     'recommonmark',
+    'sphinx.ext.viewcode',
 ]
 
 intersphinx_mapping = {
@@ -42,4 +43,8 @@ import os
 import sys
 from os.path import dirname, abspath
 
-sys.path.insert(0, abspath(r'PyCIL_mrfa_added\models'))
+# 计算上三级目录的绝对路径
+parent_dir = os.path.abspath(os.path.join('..', '..', '..'))
+
+# 将上三级目录添加到 sys.path
+sys.path.insert(0, parent_dir)

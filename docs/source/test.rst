@@ -2,4 +2,4 @@ test
 =========
 
 
-.. automodule::tt
+.. automodule::models.beef_iso
