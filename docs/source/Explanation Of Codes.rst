@@ -6,8 +6,8 @@ Explanation Of Main Codes
 base.py
 ----------
 
-.. automodule::PyCIL_mrfa_added.models.base
-
+.. automodule:: models.base
+   :members:
 
 This script defines a Python class named BaseLearner,
 designed for incremental learning scenarios in machine learning.
