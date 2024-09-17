@@ -42,5 +42,4 @@ import os
 import sys
 from os.path import dirname, abspath
 
-sys.path.insert(0, abspath('..'))
-root_dir = dirname(dirname(abspath(__file__)))
+sys.path.insert(0, abspath(r'PyCIL_mrfa_added\models'))
