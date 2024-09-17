@@ -6,6 +6,9 @@ Explanation Of Main Codes
 base.py
 ----------
 
+.. automodule::models.base
+
+
 This script defines a Python class named BaseLearner,
 designed for incremental learning scenarios in machine learning.
 The BaseLearner class serves as a foundational framework
