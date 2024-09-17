@@ -6,7 +6,7 @@ Explanation Of Main Codes
 base.py
 ----------
 
-.. automodule::models.base
+.. automodule::PyCIL_mrfa_added.models.base
 
 
 This script defines a Python class named BaseLearner,
