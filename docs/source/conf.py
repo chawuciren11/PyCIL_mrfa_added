@@ -44,7 +44,7 @@ import sys
 from os.path import dirname, abspath
 
 # 计算上三级目录的绝对路径
-parent_dir = os.path.abspath(os.path.join('..', '..', '..'))
+parent_dir = os.path.abspath(os.path.join('..', '..'))
 
 # 将上三级目录添加到 sys.path
 sys.path.insert(0, parent_dir)
