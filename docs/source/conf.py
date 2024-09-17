@@ -37,3 +37,7 @@ html_sidebars = {
 }
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+import os
+import sys
+sys.path.insert(0, os.path.abspath('D:\成就\人要有梦想\zdw老师\PyCIL_mrfa_added\models'))
