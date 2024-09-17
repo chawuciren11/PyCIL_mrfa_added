@@ -16,6 +16,7 @@ PyCIL: A Python Toolbox for Class-Incremental Learning
    Methods Reproduced
    Reproduced Results
    Awesome Papers Using PyCIL
+   test
 
 .. toctree::
    :maxdepth: 2
