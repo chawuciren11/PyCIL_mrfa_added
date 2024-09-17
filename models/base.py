@@ -21,8 +21,11 @@ class BaseLearner(object):
     which can be easily used by all other methods.
     '''
     def __init__(self, args):
-    '''The constructor method that initializes an instance of the ``BaseLearner`` class.It sets up the learner with configuration parameters provided in the ``args`` dictionary,such as memory size, device placement (CPU or GPU),and initializes properties like the current task index, known classes, and total classes.
-    '''
+        '''
+        The constructor method that initializes an instance of the ``BaseLearner`` class.
+        It sets up the learner with configuration parameters provided in the ``args`` dictionary,such as memory size,
+        device placement (CPU or GPU),and initializes properties like the current task index, known classes, and total classes.
+        '''
         self.args = args
         self._cur_task = -1
         self._known_classes = 0
