@@ -2,18 +2,14 @@
 
 Explanation Of Main Codes
 ==========================
+    This script defines a Python class named ``BaseLearner``,
+    designed for incremental learning scenarios in machine learning.
+    The ``BaseLearner`` class serves as a foundational framework
+    to manage and update the model's knowledge base as new tasks are introduced,
+    which can be easily used by all other methods.
 
 base.py
 ----------
-
-.. automodule:: models.base
-   :members:
-
-This script defines a Python class named BaseLearner,
-designed for incremental learning scenarios in machine learning.
-The BaseLearner class serves as a foundational framework
-to manage and update the model's knowledge base as new tasks are introduced,
-which can be easily used by all other methods.
 
 * **\_\_init\_\_(self, args)** The constructor method that initializes an instance of the **BaseLearner** class.It sets up the learner with configuration parameters provided in the **args** dictionary,such as memory size, device placement (CPU or GPU),and initializes properties like the current task index, known classes, and total classes.
 

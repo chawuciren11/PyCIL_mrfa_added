@@ -69,5 +69,8 @@ def get_model(model_name, args):
     elif name == "icarl_mrfa":
         from models.icarl_mrfa import iCaRLmrfa
         return iCaRLmrfa(args)
+    elif name== "memo_mrfa":
+        from models.memo_mrfa import memomrfa
+        return memomrfa(args)
     else:
         assert 0

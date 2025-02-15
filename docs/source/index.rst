@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 PyCIL: A Python Toolbox for Class-Incremental Learning
-=================================
+============================================================
 
 .. toctree::
    :maxdepth: 2
